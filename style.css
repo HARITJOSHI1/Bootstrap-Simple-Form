@@ -1,0 +1,58 @@
+.sign-in-body {
+    background-color: rgba(167, 207, 251, 0.5);
+}
+
+.container.push {
+    margin-top: 8.7%;
+}
+
+.card.sign-in-card {
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 8px 1px rgba(0, 0, 0, 0.7);
+    margin-bottom: 1.4rem;
+}
+
+.img-fluid.sign-in-img {
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+    width: 60%;
+}
+
+form.sign-in-form {
+    max-width: 350px;
+    margin: auto;
+}
+
+#form_email {
+    margin-top: 15px;
+}
+
+button.signinbtn {
+    color: #ffffff;
+    background-color: #d64829;
+    width: 100%;
+    font-size: 21.4px;
+    margin-bottom: 1.2rem;
+    transition: 0.3s;
+}
+
+.signinbtn:hover {
+    opacity: 0.93;
+    color: white;
+}
+
+label.c{
+    font-size: 17px;
+}
+
+a.link{
+    margin-left: 9px;
+}
+
+a.link2{
+    font-size: 17px;
+    text-align: center;
+    display: block;
+    margin-bottom: 1.2rem;
+}
